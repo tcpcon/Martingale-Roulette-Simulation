@@ -30,7 +30,7 @@ while len(rounds) < __CONFIG__["rounds"]:
 
     if randomColor.lower() == __CONFIG__["color"].lower():
         player["cash"] += player["betAmount"] * 2
-        player["betAmount"] = 1
+        player["betAmount"] = __CONFIG__["betAmount"]
     else:
         player["cash"] -= player["betAmount"]
         player["betAmount"] *= 2
