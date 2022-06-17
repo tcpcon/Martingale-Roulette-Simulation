@@ -35,7 +35,7 @@ while len(rounds) < __CONFIG__["rounds"]:
         player["cash"] -= player["betAmount"]
         player["betAmount"] *= 2
     
-    rounds.append({"EndingAmount": player["cash"], "Win": randomColor.lower() == __CONFIG__["color"].lower(), "BetAmount": player["betAmount"]})
+    rounds.append({"RoundId": len(rounds) + 1, "Color": randomColor, "EndingAmount": player["cash"], "Win": randomColor.lower() == __CONFIG__["color"].lower()})
 
     plt.plot([i for i in range(len(rounds))], [int(round["EndingAmount"]) for round in rounds], color=__CONFIG__["color"].lower())
     plt.pause(0.01)
