@@ -1,251 +1,2501 @@
 [{
     'RoundId': 1,
     'Color': 'Red',
-    'EndingAmount': 900,
+    'EndingAmount': 999,
     'Win': False
 }, {
     'RoundId': 2,
     'Color': 'Red',
-    'EndingAmount': 700,
+    'EndingAmount': 997,
     'Win': False
 }, {
     'RoundId': 3,
     'Color': 'Black',
-    'EndingAmount': 1500,
+    'EndingAmount': 1005,
     'Win': True
 }, {
     'RoundId': 4,
-    'Color': 'Black',
-    'EndingAmount': 1502,
-    'Win': True
+    'Color': 'Red',
+    'EndingAmount': 1004,
+    'Win': False
 }, {
     'RoundId': 5,
     'Color': 'Black',
-    'EndingAmount': 1504,
+    'EndingAmount': 1008,
     'Win': True
 }, {
     'RoundId': 6,
     'Color': 'Black',
-    'EndingAmount': 1506,
+    'EndingAmount': 1010,
     'Win': True
 }, {
     'RoundId': 7,
     'Color': 'Red',
-    'EndingAmount': 1505,
+    'EndingAmount': 1009,
     'Win': False
 }, {
     'RoundId': 8,
     'Color': 'Black',
-    'EndingAmount': 1509,
+    'EndingAmount': 1013,
     'Win': True
 }, {
     'RoundId': 9,
     'Color': 'Red',
-    'EndingAmount': 1508,
+    'EndingAmount': 1012,
     'Win': False
 }, {
     'RoundId': 10,
     'Color': 'Red',
-    'EndingAmount': 1506,
+    'EndingAmount': 1010,
     'Win': False
 }, {
     'RoundId': 11,
-    'Color': 'Black',
-    'EndingAmount': 1514,
-    'Win': True
+    'Color': 'Red',
+    'EndingAmount': 1006,
+    'Win': False
 }, {
     'RoundId': 12,
-    'Color': 'Red',
-    'EndingAmount': 1513,
-    'Win': False
+    'Color': 'Black',
+    'EndingAmount': 1022,
+    'Win': True
 }, {
     'RoundId': 13,
     'Color': 'Red',
-    'EndingAmount': 1511,
+    'EndingAmount': 1021,
     'Win': False
 }, {
     'RoundId': 14,
     'Color': 'Red',
-    'EndingAmount': 1507,
+    'EndingAmount': 1019,
     'Win': False
 }, {
     'RoundId': 15,
     'Color': 'Black',
-    'EndingAmount': 1523,
+    'EndingAmount': 1027,
     'Win': True
 }, {
     'RoundId': 16,
-    'Color': 'Red',
-    'EndingAmount': 1522,
-    'Win': False
+    'Color': 'Black',
+    'EndingAmount': 1029,
+    'Win': True
 }, {
     'RoundId': 17,
     'Color': 'Black',
-    'EndingAmount': 1526,
+    'EndingAmount': 1031,
     'Win': True
 }, {
     'RoundId': 18,
     'Color': 'Red',
-    'EndingAmount': 1525,
+    'EndingAmount': 1030,
     'Win': False
 }, {
     'RoundId': 19,
     'Color': 'Red',
-    'EndingAmount': 1523,
+    'EndingAmount': 1028,
     'Win': False
 }, {
     'RoundId': 20,
     'Color': 'Black',
-    'EndingAmount': 1531,
+    'EndingAmount': 1036,
     'Win': True
 }, {
     'RoundId': 21,
     'Color': 'Red',
-    'EndingAmount': 1530,
+    'EndingAmount': 1035,
     'Win': False
 }, {
     'RoundId': 22,
     'Color': 'Black',
-    'EndingAmount': 1534,
+    'EndingAmount': 1039,
     'Win': True
 }, {
     'RoundId': 23,
     'Color': 'Red',
-    'EndingAmount': 1533,
+    'EndingAmount': 1038,
     'Win': False
 }, {
     'RoundId': 24,
     'Color': 'Black',
-    'EndingAmount': 1537,
+    'EndingAmount': 1042,
     'Win': True
 }, {
     'RoundId': 25,
-    'Color': 'Red',
-    'EndingAmount': 1536,
-    'Win': False
+    'Color': 'Black',
+    'EndingAmount': 1044,
+    'Win': True
 }, {
     'RoundId': 26,
-    'Color': 'Red',
-    'EndingAmount': 1534,
-    'Win': False
+    'Color': 'Black',
+    'EndingAmount': 1046,
+    'Win': True
 }, {
     'RoundId': 27,
     'Color': 'Red',
-    'EndingAmount': 1530,
+    'EndingAmount': 1045,
     'Win': False
 }, {
     'RoundId': 28,
     'Color': 'Red',
-    'EndingAmount': 1522,
+    'EndingAmount': 1043,
     'Win': False
 }, {
     'RoundId': 29,
-    'Color': 'Red',
-    'EndingAmount': 1506,
-    'Win': False
+    'Color': 'Black',
+    'EndingAmount': 1051,
+    'Win': True
 }, {
     'RoundId': 30,
     'Color': 'Black',
-    'EndingAmount': 1570,
+    'EndingAmount': 1053,
     'Win': True
 }, {
     'RoundId': 31,
-    'Color': 'Red',
-    'EndingAmount': 1569,
-    'Win': False
+    'Color': 'Black',
+    'EndingAmount': 1055,
+    'Win': True
 }, {
     'RoundId': 32,
-    'Color': 'Red',
-    'EndingAmount': 1567,
-    'Win': False
+    'Color': 'Black',
+    'EndingAmount': 1057,
+    'Win': True
 }, {
     'RoundId': 33,
-    'Color': 'Red',
-    'EndingAmount': 1563,
-    'Win': False
+    'Color': 'Black',
+    'EndingAmount': 1059,
+    'Win': True
 }, {
     'RoundId': 34,
     'Color': 'Red',
-    'EndingAmount': 1555,
+    'EndingAmount': 1058,
     'Win': False
 }, {
     'RoundId': 35,
     'Color': 'Red',
-    'EndingAmount': 1539,
+    'EndingAmount': 1056,
     'Win': False
 }, {
     'RoundId': 36,
-    'Color': 'Black',
-    'EndingAmount': 1603,
-    'Win': True
+    'Color': 'Red',
+    'EndingAmount': 1052,
+    'Win': False
 }, {
     'RoundId': 37,
     'Color': 'Black',
-    'EndingAmount': 1605,
+    'EndingAmount': 1068,
     'Win': True
 }, {
     'RoundId': 38,
-    'Color': 'Red',
-    'EndingAmount': 1604,
-    'Win': False
+    'Color': 'Black',
+    'EndingAmount': 1070,
+    'Win': True
 }, {
     'RoundId': 39,
     'Color': 'Red',
-    'EndingAmount': 1602,
+    'EndingAmount': 1069,
     'Win': False
 }, {
     'RoundId': 40,
-    'Color': 'Red',
-    'EndingAmount': 1598,
-    'Win': False
+    'Color': 'Black',
+    'EndingAmount': 1073,
+    'Win': True
 }, {
     'RoundId': 41,
-    'Color': 'Black',
-    'EndingAmount': 1614,
-    'Win': True
+    'Color': 'Red',
+    'EndingAmount': 1072,
+    'Win': False
 }, {
     'RoundId': 42,
-    'Color': 'Black',
-    'EndingAmount': 1616,
-    'Win': True
+    'Color': 'Red',
+    'EndingAmount': 1070,
+    'Win': False
 }, {
     'RoundId': 43,
     'Color': 'Red',
-    'EndingAmount': 1615,
+    'EndingAmount': 1066,
     'Win': False
 }, {
     'RoundId': 44,
     'Color': 'Black',
-    'EndingAmount': 1619,
+    'EndingAmount': 1082,
     'Win': True
 }, {
     'RoundId': 45,
-    'Color': 'Black',
-    'EndingAmount': 1621,
-    'Win': True
+    'Color': 'Red',
+    'EndingAmount': 1081,
+    'Win': False
 }, {
     'RoundId': 46,
-    'Color': 'Black',
-    'EndingAmount': 1623,
-    'Win': True
+    'Color': 'Red',
+    'EndingAmount': 1079,
+    'Win': False
 }, {
     'RoundId': 47,
-    'Color': 'Red',
-    'EndingAmount': 1622,
-    'Win': False
+    'Color': 'Black',
+    'EndingAmount': 1087,
+    'Win': True
 }, {
     'RoundId': 48,
-    'Color': 'Red',
-    'EndingAmount': 1620,
-    'Win': False
+    'Color': 'Black',
+    'EndingAmount': 1089,
+    'Win': True
 }, {
     'RoundId': 49,
+    'Color': 'Red',
+    'EndingAmount': 1088,
+    'Win': False
+}, {
+    'RoundId': 50,
+    'Color': 'Red',
+    'EndingAmount': 1086,
+    'Win': False
+}, {
+    'RoundId': 51,
+    'Color': 'Black',
+    'EndingAmount': 1094,
+    'Win': True
+}, {
+    'RoundId': 52,
+    'Color': 'Black',
+    'EndingAmount': 1096,
+    'Win': True
+}, {
+    'RoundId': 53,
+    'Color': 'Black',
+    'EndingAmount': 1098,
+    'Win': True
+}, {
+    'RoundId': 54,
+    'Color': 'Red',
+    'EndingAmount': 1097,
+    'Win': False
+}, {
+    'RoundId': 55,
+    'Color': 'Red',
+    'EndingAmount': 1095,
+    'Win': False
+}, {
+    'RoundId': 56,
+    'Color': 'Black',
+    'EndingAmount': 1103,
+    'Win': True
+}, {
+    'RoundId': 57,
+    'Color': 'Black',
+    'EndingAmount': 1105,
+    'Win': True
+}, {
+    'RoundId': 58,
+    'Color': 'Black',
+    'EndingAmount': 1107,
+    'Win': True
+}, {
+    'RoundId': 59,
+    'Color': 'Red',
+    'EndingAmount': 1106,
+    'Win': False
+}, {
+    'RoundId': 60,
+    'Color': 'Red',
+    'EndingAmount': 1104,
+    'Win': False
+}, {
+    'RoundId': 61,
+    'Color': 'Black',
+    'EndingAmount': 1112,
+    'Win': True
+}, {
+    'RoundId': 62,
+    'Color': 'Black',
+    'EndingAmount': 1114,
+    'Win': True
+}, {
+    'RoundId': 63,
+    'Color': 'Black',
+    'EndingAmount': 1116,
+    'Win': True
+}, {
+    'RoundId': 64,
+    'Color': 'Black',
+    'EndingAmount': 1118,
+    'Win': True
+}, {
+    'RoundId': 65,
+    'Color': 'Red',
+    'EndingAmount': 1117,
+    'Win': False
+}, {
+    'RoundId': 66,
+    'Color': 'Black',
+    'EndingAmount': 1121,
+    'Win': True
+}, {
+    'RoundId': 67,
+    'Color': 'Red',
+    'EndingAmount': 1120,
+    'Win': False
+}, {
+    'RoundId': 68,
+    'Color': 'Black',
+    'EndingAmount': 1124,
+    'Win': True
+}, {
+    'RoundId': 69,
+    'Color': 'Black',
+    'EndingAmount': 1126,
+    'Win': True
+}, {
+    'RoundId': 70,
+    'Color': 'Red',
+    'EndingAmount': 1125,
+    'Win': False
+}, {
+    'RoundId': 71,
+    'Color': 'Black',
+    'EndingAmount': 1129,
+    'Win': True
+}, {
+    'RoundId': 72,
+    'Color': 'Black',
+    'EndingAmount': 1131,
+    'Win': True
+}, {
+    'RoundId': 73,
+    'Color': 'Black',
+    'EndingAmount': 1133,
+    'Win': True
+}, {
+    'RoundId': 74,
+    'Color': 'Red',
+    'EndingAmount': 1132,
+    'Win': False
+}, {
+    'RoundId': 75,
+    'Color': 'Black',
+    'EndingAmount': 1136,
+    'Win': True
+}, {
+    'RoundId': 76,
+    'Color': 'Red',
+    'EndingAmount': 1135,
+    'Win': False
+}, {
+    'RoundId': 77,
+    'Color': 'Black',
+    'EndingAmount': 1139,
+    'Win': True
+}, {
+    'RoundId': 78,
+    'Color': 'Red',
+    'EndingAmount': 1138,
+    'Win': False
+}, {
+    'RoundId': 79,
+    'Color': 'Red',
+    'EndingAmount': 1136,
+    'Win': False
+}, {
+    'RoundId': 80,
+    'Color': 'Black',
+    'EndingAmount': 1144,
+    'Win': True
+}, {
+    'RoundId': 81,
+    'Color': 'Red',
+    'EndingAmount': 1143,
+    'Win': False
+}, {
+    'RoundId': 82,
+    'Color': 'Black',
+    'EndingAmount': 1147,
+    'Win': True
+}, {
+    'RoundId': 83,
+    'Color': 'Black',
+    'EndingAmount': 1149,
+    'Win': True
+}, {
+    'RoundId': 84,
+    'Color': 'Black',
+    'EndingAmount': 1151,
+    'Win': True
+}, {
+    'RoundId': 85,
+    'Color': 'Red',
+    'EndingAmount': 1150,
+    'Win': False
+}, {
+    'RoundId': 86,
+    'Color': 'Red',
+    'EndingAmount': 1148,
+    'Win': False
+}, {
+    'RoundId': 87,
+    'Color': 'Black',
+    'EndingAmount': 1156,
+    'Win': True
+}, {
+    'RoundId': 88,
+    'Color': 'Red',
+    'EndingAmount': 1155,
+    'Win': False
+}, {
+    'RoundId': 89,
+    'Color': 'Black',
+    'EndingAmount': 1159,
+    'Win': True
+}, {
+    'RoundId': 90,
+    'Color': 'Black',
+    'EndingAmount': 1161,
+    'Win': True
+}, {
+    'RoundId': 91,
+    'Color': 'Red',
+    'EndingAmount': 1160,
+    'Win': False
+}, {
+    'RoundId': 92,
+    'Color': 'Red',
+    'EndingAmount': 1158,
+    'Win': False
+}, {
+    'RoundId': 93,
+    'Color': 'Black',
+    'EndingAmount': 1166,
+    'Win': True
+}, {
+    'RoundId': 94,
+    'Color': 'Red',
+    'EndingAmount': 1165,
+    'Win': False
+}, {
+    'RoundId': 95,
+    'Color': 'Black',
+    'EndingAmount': 1169,
+    'Win': True
+}, {
+    'RoundId': 96,
+    'Color': 'Black',
+    'EndingAmount': 1171,
+    'Win': True
+}, {
+    'RoundId': 97,
+    'Color': 'Black',
+    'EndingAmount': 1173,
+    'Win': True
+}, {
+    'RoundId': 98,
+    'Color': 'Black',
+    'EndingAmount': 1175,
+    'Win': True
+}, {
+    'RoundId': 99,
+    'Color': 'Red',
+    'EndingAmount': 1174,
+    'Win': False
+}, {
+    'RoundId': 100,
+    'Color': 'Black',
+    'EndingAmount': 1178,
+    'Win': True
+}, {
+    'RoundId': 101,
+    'Color': 'Red',
+    'EndingAmount': 1177,
+    'Win': False
+}, {
+    'RoundId': 102,
+    'Color': 'Black',
+    'EndingAmount': 1181,
+    'Win': True
+}, {
+    'RoundId': 103,
+    'Color': 'Black',
+    'EndingAmount': 1183,
+    'Win': True
+}, {
+    'RoundId': 104,
+    'Color': 'Black',
+    'EndingAmount': 1185,
+    'Win': True
+}, {
+    'RoundId': 105,
+    'Color': 'Red',
+    'EndingAmount': 1184,
+    'Win': False
+}, {
+    'RoundId': 106,
+    'Color': 'Red',
+    'EndingAmount': 1182,
+    'Win': False
+}, {
+    'RoundId': 107,
+    'Color': 'Red',
+    'EndingAmount': 1178,
+    'Win': False
+}, {
+    'RoundId': 108,
+    'Color': 'Black',
+    'EndingAmount': 1194,
+    'Win': True
+}, {
+    'RoundId': 109,
+    'Color': 'Red',
+    'EndingAmount': 1193,
+    'Win': False
+}, {
+    'RoundId': 110,
+    'Color': 'Red',
+    'EndingAmount': 1191,
+    'Win': False
+}, {
+    'RoundId': 111,
+    'Color': 'Red',
+    'EndingAmount': 1187,
+    'Win': False
+}, {
+    'RoundId': 112,
+    'Color': 'Black',
+    'EndingAmount': 1203,
+    'Win': True
+}, {
+    'RoundId': 113,
+    'Color': 'Black',
+    'EndingAmount': 1205,
+    'Win': True
+}, {
+    'RoundId': 114,
+    'Color': 'Red',
+    'EndingAmount': 1204,
+    'Win': False
+}, {
+    'RoundId': 115,
+    'Color': 'Red',
+    'EndingAmount': 1202,
+    'Win': False
+}, {
+    'RoundId': 116,
+    'Color': 'Red',
+    'EndingAmount': 1198,
+    'Win': False
+}, {
+    'RoundId': 117,
+    'Color': 'Black',
+    'EndingAmount': 1214,
+    'Win': True
+}, {
+    'RoundId': 118,
+    'Color': 'Black',
+    'EndingAmount': 1216,
+    'Win': True
+}, {
+    'RoundId': 119,
+    'Color': 'Black',
+    'EndingAmount': 1218,
+    'Win': True
+}, {
+    'RoundId': 120,
+    'Color': 'Red',
+    'EndingAmount': 1217,
+    'Win': False
+}, {
+    'RoundId': 121,
+    'Color': 'Red',
+    'EndingAmount': 1215,
+    'Win': False
+}, {
+    'RoundId': 122,
+    'Color': 'Red',
+    'EndingAmount': 1211,
+    'Win': False
+}, {
+    'RoundId': 123,
+    'Color': 'Black',
+    'EndingAmount': 1227,
+    'Win': True
+}, {
+    'RoundId': 124,
+    'Color': 'Black',
+    'EndingAmount': 1229,
+    'Win': True
+}, {
+    'RoundId': 125,
+    'Color': 'Red',
+    'EndingAmount': 1228,
+    'Win': False
+}, {
+    'RoundId': 126,
+    'Color': 'Red',
+    'EndingAmount': 1226,
+    'Win': False
+}, {
+    'RoundId': 127,
+    'Color': 'Red',
+    'EndingAmount': 1222,
+    'Win': False
+}, {
+    'RoundId': 128,
+    'Color': 'Red',
+    'EndingAmount': 1214,
+    'Win': False
+}, {
+    'RoundId': 129,
+    'Color': 'Red',
+    'EndingAmount': 1198,
+    'Win': False
+}, {
+    'RoundId': 130,
+    'Color': 'Black',
+    'EndingAmount': 1262,
+    'Win': True
+}, {
+    'RoundId': 131,
+    'Color': 'Red',
+    'EndingAmount': 1261,
+    'Win': False
+}, {
+    'RoundId': 132,
+    'Color': 'Black',
+    'EndingAmount': 1265,
+    'Win': True
+}, {
+    'RoundId': 133,
+    'Color': 'Red',
+    'EndingAmount': 1264,
+    'Win': False
+}, {
+    'RoundId': 134,
+    'Color': 'Red',
+    'EndingAmount': 1262,
+    'Win': False
+}, {
+    'RoundId': 135,
+    'Color': 'Red',
+    'EndingAmount': 1258,
+    'Win': False
+}, {
+    'RoundId': 136,
+    'Color': 'Red',
+    'EndingAmount': 1250,
+    'Win': False
+}, {
+    'RoundId': 137,
+    'Color': 'Black',
+    'EndingAmount': 1282,
+    'Win': True
+}, {
+    'RoundId': 138,
+    'Color': 'Red',
+    'EndingAmount': 1281,
+    'Win': False
+}, {
+    'RoundId': 139,
+    'Color': 'Black',
+    'EndingAmount': 1285,
+    'Win': True
+}, {
+    'RoundId': 140,
+    'Color': 'Black',
+    'EndingAmount': 1287,
+    'Win': True
+}, {
+    'RoundId': 141,
+    'Color': 'Red',
+    'EndingAmount': 1286,
+    'Win': False
+}, {
+    'RoundId': 142,
+    'Color': 'Black',
+    'EndingAmount': 1290,
+    'Win': True
+}, {
+    'RoundId': 143,
+    'Color': 'Red',
+    'EndingAmount': 1289,
+    'Win': False
+}, {
+    'RoundId': 144,
+    'Color': 'Black',
+    'EndingAmount': 1293,
+    'Win': True
+}, {
+    'RoundId': 145,
+    'Color': 'Red',
+    'EndingAmount': 1292,
+    'Win': False
+}, {
+    'RoundId': 146,
+    'Color': 'Black',
+    'EndingAmount': 1296,
+    'Win': True
+}, {
+    'RoundId': 147,
+    'Color': 'Red',
+    'EndingAmount': 1295,
+    'Win': False
+}, {
+    'RoundId': 148,
+    'Color': 'Red',
+    'EndingAmount': 1293,
+    'Win': False
+}, {
+    'RoundId': 149,
+    'Color': 'Red',
+    'EndingAmount': 1289,
+    'Win': False
+}, {
+    'RoundId': 150,
+    'Color': 'Red',
+    'EndingAmount': 1281,
+    'Win': False
+}, {
+    'RoundId': 151,
+    'Color': 'Red',
+    'EndingAmount': 1265,
+    'Win': False
+}, {
+    'RoundId': 152,
+    'Color': 'Red',
+    'EndingAmount': 1233,
+    'Win': False
+}, {
+    'RoundId': 153,
+    'Color': 'Black',
+    'EndingAmount': 1361,
+    'Win': True
+}, {
+    'RoundId': 154,
+    'Color': 'Black',
+    'EndingAmount': 1363,
+    'Win': True
+}, {
+    'RoundId': 155,
+    'Color': 'Red',
+    'EndingAmount': 1362,
+    'Win': False
+}, {
+    'RoundId': 156,
+    'Color': 'Black',
+    'EndingAmount': 1366,
+    'Win': True
+}, {
+    'RoundId': 157,
+    'Color': 'Black',
+    'EndingAmount': 1368,
+    'Win': True
+}, {
+    'RoundId': 158,
+    'Color': 'Black',
+    'EndingAmount': 1370,
+    'Win': True
+}, {
+    'RoundId': 159,
+    'Color': 'Black',
+    'EndingAmount': 1372,
+    'Win': True
+}, {
+    'RoundId': 160,
+    'Color': 'Black',
+    'EndingAmount': 1374,
+    'Win': True
+}, {
+    'RoundId': 161,
+    'Color': 'Red',
+    'EndingAmount': 1373,
+    'Win': False
+}, {
+    'RoundId': 162,
+    'Color': 'Red',
+    'EndingAmount': 1371,
+    'Win': False
+}, {
+    'RoundId': 163,
+    'Color': 'Red',
+    'EndingAmount': 1367,
+    'Win': False
+}, {
+    'RoundId': 164,
+    'Color': 'Black',
+    'EndingAmount': 1383,
+    'Win': True
+}, {
+    'RoundId': 165,
+    'Color': 'Red',
+    'EndingAmount': 1382,
+    'Win': False
+}, {
+    'RoundId': 166,
+    'Color': 'Black',
+    'EndingAmount': 1386,
+    'Win': True
+}, {
+    'RoundId': 167,
+    'Color': 'Black',
+    'EndingAmount': 1388,
+    'Win': True
+}, {
+    'RoundId': 168,
+    'Color': 'Red',
+    'EndingAmount': 1387,
+    'Win': False
+}, {
+    'RoundId': 169,
+    'Color': 'Red',
+    'EndingAmount': 1385,
+    'Win': False
+}, {
+    'RoundId': 170,
+    'Color': 'Red',
+    'EndingAmount': 1381,
+    'Win': False
+}, {
+    'RoundId': 171,
+    'Color': 'Black',
+    'EndingAmount': 1397,
+    'Win': True
+}, {
+    'RoundId': 172,
+    'Color': 'Black',
+    'EndingAmount': 1399,
+    'Win': True
+}, {
+    'RoundId': 173,
+    'Color': 'Red',
+    'EndingAmount': 1398,
+    'Win': False
+}, {
+    'RoundId': 174,
+    'Color': 'Black',
+    'EndingAmount': 1402,
+    'Win': True
+}, {
+    'RoundId': 175,
+    'Color': 'Red',
+    'EndingAmount': 1401,
+    'Win': False
+}, {
+    'RoundId': 176,
+    'Color': 'Black',
+    'EndingAmount': 1405,
+    'Win': True
+}, {
+    'RoundId': 177,
+    'Color': 'Red',
+    'EndingAmount': 1404,
+    'Win': False
+}, {
+    'RoundId': 178,
+    'Color': 'Red',
+    'EndingAmount': 1402,
+    'Win': False
+}, {
+    'RoundId': 179,
+    'Color': 'Black',
+    'EndingAmount': 1410,
+    'Win': True
+}, {
+    'RoundId': 180,
+    'Color': 'Black',
+    'EndingAmount': 1412,
+    'Win': True
+}, {
+    'RoundId': 181,
+    'Color': 'Red',
+    'EndingAmount': 1411,
+    'Win': False
+}, {
+    'RoundId': 182,
+    'Color': 'Black',
+    'EndingAmount': 1415,
+    'Win': True
+}, {
+    'RoundId': 183,
+    'Color': 'Black',
+    'EndingAmount': 1417,
+    'Win': True
+}, {
+    'RoundId': 184,
+    'Color': 'Red',
+    'EndingAmount': 1416,
+    'Win': False
+}, {
+    'RoundId': 185,
+    'Color': 'Black',
+    'EndingAmount': 1420,
+    'Win': True
+}, {
+    'RoundId': 186,
+    'Color': 'Black',
+    'EndingAmount': 1422,
+    'Win': True
+}, {
+    'RoundId': 187,
+    'Color': 'Black',
+    'EndingAmount': 1424,
+    'Win': True
+}, {
+    'RoundId': 188,
+    'Color': 'Red',
+    'EndingAmount': 1423,
+    'Win': False
+}, {
+    'RoundId': 189,
+    'Color': 'Black',
+    'EndingAmount': 1427,
+    'Win': True
+}, {
+    'RoundId': 190,
+    'Color': 'Black',
+    'EndingAmount': 1429,
+    'Win': True
+}, {
+    'RoundId': 191,
+    'Color': 'Red',
+    'EndingAmount': 1428,
+    'Win': False
+}, {
+    'RoundId': 192,
+    'Color': 'Black',
+    'EndingAmount': 1432,
+    'Win': True
+}, {
+    'RoundId': 193,
+    'Color': 'Black',
+    'EndingAmount': 1434,
+    'Win': True
+}, {
+    'RoundId': 194,
+    'Color': 'Red',
+    'EndingAmount': 1433,
+    'Win': False
+}, {
+    'RoundId': 195,
+    'Color': 'Red',
+    'EndingAmount': 1431,
+    'Win': False
+}, {
+    'RoundId': 196,
+    'Color': 'Black',
+    'EndingAmount': 1439,
+    'Win': True
+}, {
+    'RoundId': 197,
+    'Color': 'Black',
+    'EndingAmount': 1441,
+    'Win': True
+}, {
+    'RoundId': 198,
+    'Color': 'Red',
+    'EndingAmount': 1440,
+    'Win': False
+}, {
+    'RoundId': 199,
+    'Color': 'Black',
+    'EndingAmount': 1444,
+    'Win': True
+}, {
+    'RoundId': 200,
+    'Color': 'Black',
+    'EndingAmount': 1446,
+    'Win': True
+}, {
+    'RoundId': 201,
+    'Color': 'Red',
+    'EndingAmount': 1445,
+    'Win': False
+}, {
+    'RoundId': 202,
+    'Color': 'Red',
+    'EndingAmount': 1443,
+    'Win': False
+}, {
+    'RoundId': 203,
+    'Color': 'Black',
+    'EndingAmount': 1451,
+    'Win': True
+}, {
+    'RoundId': 204,
+    'Color': 'Red',
+    'EndingAmount': 1450,
+    'Win': False
+}, {
+    'RoundId': 205,
+    'Color': 'Red',
+    'EndingAmount': 1448,
+    'Win': False
+}, {
+    'RoundId': 206,
+    'Color': 'Black',
+    'EndingAmount': 1456,
+    'Win': True
+}, {
+    'RoundId': 207,
+    'Color': 'Red',
+    'EndingAmount': 1455,
+    'Win': False
+}, {
+    'RoundId': 208,
+    'Color': 'Black',
+    'EndingAmount': 1459,
+    'Win': True
+}, {
+    'RoundId': 209,
+    'Color': 'Red',
+    'EndingAmount': 1458,
+    'Win': False
+}, {
+    'RoundId': 210,
+    'Color': 'Black',
+    'EndingAmount': 1462,
+    'Win': True
+}, {
+    'RoundId': 211,
+    'Color': 'Red',
+    'EndingAmount': 1461,
+    'Win': False
+}, {
+    'RoundId': 212,
+    'Color': 'Red',
+    'EndingAmount': 1459,
+    'Win': False
+}, {
+    'RoundId': 213,
+    'Color': 'Red',
+    'EndingAmount': 1455,
+    'Win': False
+}, {
+    'RoundId': 214,
+    'Color': 'Red',
+    'EndingAmount': 1447,
+    'Win': False
+}, {
+    'RoundId': 215,
+    'Color': 'Red',
+    'EndingAmount': 1431,
+    'Win': False
+}, {
+    'RoundId': 216,
+    'Color': 'Black',
+    'EndingAmount': 1495,
+    'Win': True
+}, {
+    'RoundId': 217,
+    'Color': 'Black',
+    'EndingAmount': 1497,
+    'Win': True
+}, {
+    'RoundId': 218,
+    'Color': 'Black',
+    'EndingAmount': 1499,
+    'Win': True
+}, {
+    'RoundId': 219,
+    'Color': 'Red',
+    'EndingAmount': 1498,
+    'Win': False
+}, {
+    'RoundId': 220,
+    'Color': 'Red',
+    'EndingAmount': 1496,
+    'Win': False
+}, {
+    'RoundId': 221,
+    'Color': 'Red',
+    'EndingAmount': 1492,
+    'Win': False
+}, {
+    'RoundId': 222,
+    'Color': 'Red',
+    'EndingAmount': 1484,
+    'Win': False
+}, {
+    'RoundId': 223,
+    'Color': 'Red',
+    'EndingAmount': 1468,
+    'Win': False
+}, {
+    'RoundId': 224,
+    'Color': 'Black',
+    'EndingAmount': 1532,
+    'Win': True
+}, {
+    'RoundId': 225,
+    'Color': 'Red',
+    'EndingAmount': 1531,
+    'Win': False
+}, {
+    'RoundId': 226,
+    'Color': 'Red',
+    'EndingAmount': 1529,
+    'Win': False
+}, {
+    'RoundId': 227,
+    'Color': 'Black',
+    'EndingAmount': 1537,
+    'Win': True
+}, {
+    'RoundId': 228,
+    'Color': 'Red',
+    'EndingAmount': 1536,
+    'Win': False
+}, {
+    'RoundId': 229,
+    'Color': 'Black',
+    'EndingAmount': 1540,
+    'Win': True
+}, {
+    'RoundId': 230,
+    'Color': 'Black',
+    'EndingAmount': 1542,
+    'Win': True
+}, {
+    'RoundId': 231,
+    'Color': 'Black',
+    'EndingAmount': 1544,
+    'Win': True
+}, {
+    'RoundId': 232,
+    'Color': 'Red',
+    'EndingAmount': 1543,
+    'Win': False
+}, {
+    'RoundId': 233,
+    'Color': 'Black',
+    'EndingAmount': 1547,
+    'Win': True
+}, {
+    'RoundId': 234,
+    'Color': 'Red',
+    'EndingAmount': 1546,
+    'Win': False
+}, {
+    'RoundId': 235,
+    'Color': 'Red',
+    'EndingAmount': 1544,
+    'Win': False
+}, {
+    'RoundId': 236,
+    'Color': 'Red',
+    'EndingAmount': 1540,
+    'Win': False
+}, {
+    'RoundId': 237,
+    'Color': 'Red',
+    'EndingAmount': 1532,
+    'Win': False
+}, {
+    'RoundId': 238,
+    'Color': 'Red',
+    'EndingAmount': 1516,
+    'Win': False
+}, {
+    'RoundId': 239,
+    'Color': 'Black',
+    'EndingAmount': 1580,
+    'Win': True
+}, {
+    'RoundId': 240,
+    'Color': 'Red',
+    'EndingAmount': 1579,
+    'Win': False
+}, {
+    'RoundId': 241,
+    'Color': 'Black',
+    'EndingAmount': 1583,
+    'Win': True
+}, {
+    'RoundId': 242,
+    'Color': 'Red',
+    'EndingAmount': 1582,
+    'Win': False
+}, {
+    'RoundId': 243,
+    'Color': 'Red',
+    'EndingAmount': 1580,
+    'Win': False
+}, {
+    'RoundId': 244,
+    'Color': 'Black',
+    'EndingAmount': 1588,
+    'Win': True
+}, {
+    'RoundId': 245,
+    'Color': 'Red',
+    'EndingAmount': 1587,
+    'Win': False
+}, {
+    'RoundId': 246,
+    'Color': 'Black',
+    'EndingAmount': 1591,
+    'Win': True
+}, {
+    'RoundId': 247,
+    'Color': 'Black',
+    'EndingAmount': 1593,
+    'Win': True
+}, {
+    'RoundId': 248,
+    'Color': 'Black',
+    'EndingAmount': 1595,
+    'Win': True
+}, {
+    'RoundId': 249,
+    'Color': 'Black',
+    'EndingAmount': 1597,
+    'Win': True
+}, {
+    'RoundId': 250,
+    'Color': 'Red',
+    'EndingAmount': 1596,
+    'Win': False
+}, {
+    'RoundId': 251,
+    'Color': 'Black',
+    'EndingAmount': 1600,
+    'Win': True
+}, {
+    'RoundId': 252,
+    'Color': 'Black',
+    'EndingAmount': 1602,
+    'Win': True
+}, {
+    'RoundId': 253,
+    'Color': 'Red',
+    'EndingAmount': 1601,
+    'Win': False
+}, {
+    'RoundId': 254,
+    'Color': 'Red',
+    'EndingAmount': 1599,
+    'Win': False
+}, {
+    'RoundId': 255,
+    'Color': 'Red',
+    'EndingAmount': 1595,
+    'Win': False
+}, {
+    'RoundId': 256,
+    'Color': 'Red',
+    'EndingAmount': 1587,
+    'Win': False
+}, {
+    'RoundId': 257,
+    'Color': 'Black',
+    'EndingAmount': 1619,
+    'Win': True
+}, {
+    'RoundId': 258,
+    'Color': 'Red',
+    'EndingAmount': 1618,
+    'Win': False
+}, {
+    'RoundId': 259,
     'Color': 'Red',
     'EndingAmount': 1616,
     'Win': False
 }, {
-    'RoundId': 50,
+    'RoundId': 260,
     'Color': 'Black',
+    'EndingAmount': 1624,
+    'Win': True
+}, {
+    'RoundId': 261,
+    'Color': 'Red',
+    'EndingAmount': 1623,
+    'Win': False
+}, {
+    'RoundId': 262,
+    'Color': 'Red',
+    'EndingAmount': 1621,
+    'Win': False
+}, {
+    'RoundId': 263,
+    'Color': 'Red',
+    'EndingAmount': 1617,
+    'Win': False
+}, {
+    'RoundId': 264,
+    'Color': 'Black',
+    'EndingAmount': 1633,
+    'Win': True
+}, {
+    'RoundId': 265,
+    'Color': 'Red',
     'EndingAmount': 1632,
+    'Win': False
+}, {
+    'RoundId': 266,
+    'Color': 'Black',
+    'EndingAmount': 1636,
+    'Win': True
+}, {
+    'RoundId': 267,
+    'Color': 'Red',
+    'EndingAmount': 1635,
+    'Win': False
+}, {
+    'RoundId': 268,
+    'Color': 'Red',
+    'EndingAmount': 1633,
+    'Win': False
+}, {
+    'RoundId': 269,
+    'Color': 'Black',
+    'EndingAmount': 1641,
+    'Win': True
+}, {
+    'RoundId': 270,
+    'Color': 'Black',
+    'EndingAmount': 1643,
+    'Win': True
+}, {
+    'RoundId': 271,
+    'Color': 'Black',
+    'EndingAmount': 1645,
+    'Win': True
+}, {
+    'RoundId': 272,
+    'Color': 'Black',
+    'EndingAmount': 1647,
+    'Win': True
+}, {
+    'RoundId': 273,
+    'Color': 'Black',
+    'EndingAmount': 1649,
+    'Win': True
+}, {
+    'RoundId': 274,
+    'Color': 'Red',
+    'EndingAmount': 1648,
+    'Win': False
+}, {
+    'RoundId': 275,
+    'Color': 'Red',
+    'EndingAmount': 1646,
+    'Win': False
+}, {
+    'RoundId': 276,
+    'Color': 'Black',
+    'EndingAmount': 1654,
+    'Win': True
+}, {
+    'RoundId': 277,
+    'Color': 'Black',
+    'EndingAmount': 1656,
+    'Win': True
+}, {
+    'RoundId': 278,
+    'Color': 'Black',
+    'EndingAmount': 1658,
+    'Win': True
+}, {
+    'RoundId': 279,
+    'Color': 'Black',
+    'EndingAmount': 1660,
+    'Win': True
+}, {
+    'RoundId': 280,
+    'Color': 'Black',
+    'EndingAmount': 1662,
+    'Win': True
+}, {
+    'RoundId': 281,
+    'Color': 'Black',
+    'EndingAmount': 1664,
+    'Win': True
+}, {
+    'RoundId': 282,
+    'Color': 'Red',
+    'EndingAmount': 1663,
+    'Win': False
+}, {
+    'RoundId': 283,
+    'Color': 'Red',
+    'EndingAmount': 1661,
+    'Win': False
+}, {
+    'RoundId': 284,
+    'Color': 'Red',
+    'EndingAmount': 1657,
+    'Win': False
+}, {
+    'RoundId': 285,
+    'Color': 'Red',
+    'EndingAmount': 1649,
+    'Win': False
+}, {
+    'RoundId': 286,
+    'Color': 'Red',
+    'EndingAmount': 1633,
+    'Win': False
+}, {
+    'RoundId': 287,
+    'Color': 'Black',
+    'EndingAmount': 1697,
+    'Win': True
+}, {
+    'RoundId': 288,
+    'Color': 'Black',
+    'EndingAmount': 1699,
+    'Win': True
+}, {
+    'RoundId': 289,
+    'Color': 'Red',
+    'EndingAmount': 1698,
+    'Win': False
+}, {
+    'RoundId': 290,
+    'Color': 'Red',
+    'EndingAmount': 1696,
+    'Win': False
+}, {
+    'RoundId': 291,
+    'Color': 'Black',
+    'EndingAmount': 1704,
+    'Win': True
+}, {
+    'RoundId': 292,
+    'Color': 'Black',
+    'EndingAmount': 1706,
+    'Win': True
+}, {
+    'RoundId': 293,
+    'Color': 'Black',
+    'EndingAmount': 1708,
+    'Win': True
+}, {
+    'RoundId': 294,
+    'Color': 'Black',
+    'EndingAmount': 1710,
+    'Win': True
+}, {
+    'RoundId': 295,
+    'Color': 'Red',
+    'EndingAmount': 1709,
+    'Win': False
+}, {
+    'RoundId': 296,
+    'Color': 'Red',
+    'EndingAmount': 1707,
+    'Win': False
+}, {
+    'RoundId': 297,
+    'Color': 'Black',
+    'EndingAmount': 1715,
+    'Win': True
+}, {
+    'RoundId': 298,
+    'Color': 'Black',
+    'EndingAmount': 1717,
+    'Win': True
+}, {
+    'RoundId': 299,
+    'Color': 'Red',
+    'EndingAmount': 1716,
+    'Win': False
+}, {
+    'RoundId': 300,
+    'Color': 'Black',
+    'EndingAmount': 1720,
+    'Win': True
+}, {
+    'RoundId': 301,
+    'Color': 'Black',
+    'EndingAmount': 1722,
+    'Win': True
+}, {
+    'RoundId': 302,
+    'Color': 'Black',
+    'EndingAmount': 1724,
+    'Win': True
+}, {
+    'RoundId': 303,
+    'Color': 'Black',
+    'EndingAmount': 1726,
+    'Win': True
+}, {
+    'RoundId': 304,
+    'Color': 'Red',
+    'EndingAmount': 1725,
+    'Win': False
+}, {
+    'RoundId': 305,
+    'Color': 'Red',
+    'EndingAmount': 1723,
+    'Win': False
+}, {
+    'RoundId': 306,
+    'Color': 'Red',
+    'EndingAmount': 1719,
+    'Win': False
+}, {
+    'RoundId': 307,
+    'Color': 'Black',
+    'EndingAmount': 1735,
+    'Win': True
+}, {
+    'RoundId': 308,
+    'Color': 'Red',
+    'EndingAmount': 1734,
+    'Win': False
+}, {
+    'RoundId': 309,
+    'Color': 'Black',
+    'EndingAmount': 1738,
+    'Win': True
+}, {
+    'RoundId': 310,
+    'Color': 'Red',
+    'EndingAmount': 1737,
+    'Win': False
+}, {
+    'RoundId': 311,
+    'Color': 'Red',
+    'EndingAmount': 1735,
+    'Win': False
+}, {
+    'RoundId': 312,
+    'Color': 'Black',
+    'EndingAmount': 1743,
+    'Win': True
+}, {
+    'RoundId': 313,
+    'Color': 'Red',
+    'EndingAmount': 1742,
+    'Win': False
+}, {
+    'RoundId': 314,
+    'Color': 'Red',
+    'EndingAmount': 1740,
+    'Win': False
+}, {
+    'RoundId': 315,
+    'Color': 'Red',
+    'EndingAmount': 1736,
+    'Win': False
+}, {
+    'RoundId': 316,
+    'Color': 'Black',
+    'EndingAmount': 1752,
+    'Win': True
+}, {
+    'RoundId': 317,
+    'Color': 'Red',
+    'EndingAmount': 1751,
+    'Win': False
+}, {
+    'RoundId': 318,
+    'Color': 'Black',
+    'EndingAmount': 1755,
+    'Win': True
+}, {
+    'RoundId': 319,
+    'Color': 'Black',
+    'EndingAmount': 1757,
+    'Win': True
+}, {
+    'RoundId': 320,
+    'Color': 'Red',
+    'EndingAmount': 1756,
+    'Win': False
+}, {
+    'RoundId': 321,
+    'Color': 'Red',
+    'EndingAmount': 1754,
+    'Win': False
+}, {
+    'RoundId': 322,
+    'Color': 'Black',
+    'EndingAmount': 1762,
+    'Win': True
+}, {
+    'RoundId': 323,
+    'Color': 'Red',
+    'EndingAmount': 1761,
+    'Win': False
+}, {
+    'RoundId': 324,
+    'Color': 'Red',
+    'EndingAmount': 1759,
+    'Win': False
+}, {
+    'RoundId': 325,
+    'Color': 'Black',
+    'EndingAmount': 1767,
+    'Win': True
+}, {
+    'RoundId': 326,
+    'Color': 'Black',
+    'EndingAmount': 1769,
+    'Win': True
+}, {
+    'RoundId': 327,
+    'Color': 'Red',
+    'EndingAmount': 1768,
+    'Win': False
+}, {
+    'RoundId': 328,
+    'Color': 'Red',
+    'EndingAmount': 1766,
+    'Win': False
+}, {
+    'RoundId': 329,
+    'Color': 'Red',
+    'EndingAmount': 1762,
+    'Win': False
+}, {
+    'RoundId': 330,
+    'Color': 'Red',
+    'EndingAmount': 1754,
+    'Win': False
+}, {
+    'RoundId': 331,
+    'Color': 'Red',
+    'EndingAmount': 1738,
+    'Win': False
+}, {
+    'RoundId': 332,
+    'Color': 'Black',
+    'EndingAmount': 1802,
+    'Win': True
+}, {
+    'RoundId': 333,
+    'Color': 'Red',
+    'EndingAmount': 1801,
+    'Win': False
+}, {
+    'RoundId': 334,
+    'Color': 'Black',
+    'EndingAmount': 1805,
+    'Win': True
+}, {
+    'RoundId': 335,
+    'Color': 'Black',
+    'EndingAmount': 1807,
+    'Win': True
+}, {
+    'RoundId': 336,
+    'Color': 'Red',
+    'EndingAmount': 1806,
+    'Win': False
+}, {
+    'RoundId': 337,
+    'Color': 'Red',
+    'EndingAmount': 1804,
+    'Win': False
+}, {
+    'RoundId': 338,
+    'Color': 'Black',
+    'EndingAmount': 1812,
+    'Win': True
+}, {
+    'RoundId': 339,
+    'Color': 'Red',
+    'EndingAmount': 1811,
+    'Win': False
+}, {
+    'RoundId': 340,
+    'Color': 'Black',
+    'EndingAmount': 1815,
+    'Win': True
+}, {
+    'RoundId': 341,
+    'Color': 'Red',
+    'EndingAmount': 1814,
+    'Win': False
+}, {
+    'RoundId': 342,
+    'Color': 'Red',
+    'EndingAmount': 1812,
+    'Win': False
+}, {
+    'RoundId': 343,
+    'Color': 'Black',
+    'EndingAmount': 1820,
+    'Win': True
+}, {
+    'RoundId': 344,
+    'Color': 'Red',
+    'EndingAmount': 1819,
+    'Win': False
+}, {
+    'RoundId': 345,
+    'Color': 'Red',
+    'EndingAmount': 1817,
+    'Win': False
+}, {
+    'RoundId': 346,
+    'Color': 'Red',
+    'EndingAmount': 1813,
+    'Win': False
+}, {
+    'RoundId': 347,
+    'Color': 'Red',
+    'EndingAmount': 1805,
+    'Win': False
+}, {
+    'RoundId': 348,
+    'Color': 'Black',
+    'EndingAmount': 1837,
+    'Win': True
+}, {
+    'RoundId': 349,
+    'Color': 'Red',
+    'EndingAmount': 1836,
+    'Win': False
+}, {
+    'RoundId': 350,
+    'Color': 'Black',
+    'EndingAmount': 1840,
+    'Win': True
+}, {
+    'RoundId': 351,
+    'Color': 'Black',
+    'EndingAmount': 1842,
+    'Win': True
+}, {
+    'RoundId': 352,
+    'Color': 'Black',
+    'EndingAmount': 1844,
+    'Win': True
+}, {
+    'RoundId': 353,
+    'Color': 'Black',
+    'EndingAmount': 1846,
+    'Win': True
+}, {
+    'RoundId': 354,
+    'Color': 'Black',
+    'EndingAmount': 1848,
+    'Win': True
+}, {
+    'RoundId': 355,
+    'Color': 'Red',
+    'EndingAmount': 1847,
+    'Win': False
+}, {
+    'RoundId': 356,
+    'Color': 'Black',
+    'EndingAmount': 1851,
+    'Win': True
+}, {
+    'RoundId': 357,
+    'Color': 'Red',
+    'EndingAmount': 1850,
+    'Win': False
+}, {
+    'RoundId': 358,
+    'Color': 'Black',
+    'EndingAmount': 1854,
+    'Win': True
+}, {
+    'RoundId': 359,
+    'Color': 'Black',
+    'EndingAmount': 1856,
+    'Win': True
+}, {
+    'RoundId': 360,
+    'Color': 'Red',
+    'EndingAmount': 1855,
+    'Win': False
+}, {
+    'RoundId': 361,
+    'Color': 'Red',
+    'EndingAmount': 1853,
+    'Win': False
+}, {
+    'RoundId': 362,
+    'Color': 'Black',
+    'EndingAmount': 1861,
+    'Win': True
+}, {
+    'RoundId': 363,
+    'Color': 'Red',
+    'EndingAmount': 1860,
+    'Win': False
+}, {
+    'RoundId': 364,
+    'Color': 'Black',
+    'EndingAmount': 1864,
+    'Win': True
+}, {
+    'RoundId': 365,
+    'Color': 'Black',
+    'EndingAmount': 1866,
+    'Win': True
+}, {
+    'RoundId': 366,
+    'Color': 'Black',
+    'EndingAmount': 1868,
+    'Win': True
+}, {
+    'RoundId': 367,
+    'Color': 'Red',
+    'EndingAmount': 1867,
+    'Win': False
+}, {
+    'RoundId': 368,
+    'Color': 'Red',
+    'EndingAmount': 1865,
+    'Win': False
+}, {
+    'RoundId': 369,
+    'Color': 'Black',
+    'EndingAmount': 1873,
+    'Win': True
+}, {
+    'RoundId': 370,
+    'Color': 'Black',
+    'EndingAmount': 1875,
+    'Win': True
+}, {
+    'RoundId': 371,
+    'Color': 'Red',
+    'EndingAmount': 1874,
+    'Win': False
+}, {
+    'RoundId': 372,
+    'Color': 'Red',
+    'EndingAmount': 1872,
+    'Win': False
+}, {
+    'RoundId': 373,
+    'Color': 'Black',
+    'EndingAmount': 1880,
+    'Win': True
+}, {
+    'RoundId': 374,
+    'Color': 'Black',
+    'EndingAmount': 1882,
+    'Win': True
+}, {
+    'RoundId': 375,
+    'Color': 'Red',
+    'EndingAmount': 1881,
+    'Win': False
+}, {
+    'RoundId': 376,
+    'Color': 'Black',
+    'EndingAmount': 1885,
+    'Win': True
+}, {
+    'RoundId': 377,
+    'Color': 'Black',
+    'EndingAmount': 1887,
+    'Win': True
+}, {
+    'RoundId': 378,
+    'Color': 'Red',
+    'EndingAmount': 1886,
+    'Win': False
+}, {
+    'RoundId': 379,
+    'Color': 'Black',
+    'EndingAmount': 1890,
+    'Win': True
+}, {
+    'RoundId': 380,
+    'Color': 'Black',
+    'EndingAmount': 1892,
+    'Win': True
+}, {
+    'RoundId': 381,
+    'Color': 'Red',
+    'EndingAmount': 1891,
+    'Win': False
+}, {
+    'RoundId': 382,
+    'Color': 'Red',
+    'EndingAmount': 1889,
+    'Win': False
+}, {
+    'RoundId': 383,
+    'Color': 'Red',
+    'EndingAmount': 1885,
+    'Win': False
+}, {
+    'RoundId': 384,
+    'Color': 'Red',
+    'EndingAmount': 1877,
+    'Win': False
+}, {
+    'RoundId': 385,
+    'Color': 'Red',
+    'EndingAmount': 1861,
+    'Win': False
+}, {
+    'RoundId': 386,
+    'Color': 'Black',
+    'EndingAmount': 1925,
+    'Win': True
+}, {
+    'RoundId': 387,
+    'Color': 'Black',
+    'EndingAmount': 1927,
+    'Win': True
+}, {
+    'RoundId': 388,
+    'Color': 'Red',
+    'EndingAmount': 1926,
+    'Win': False
+}, {
+    'RoundId': 389,
+    'Color': 'Black',
+    'EndingAmount': 1930,
+    'Win': True
+}, {
+    'RoundId': 390,
+    'Color': 'Red',
+    'EndingAmount': 1929,
+    'Win': False
+}, {
+    'RoundId': 391,
+    'Color': 'Black',
+    'EndingAmount': 1933,
+    'Win': True
+}, {
+    'RoundId': 392,
+    'Color': 'Red',
+    'EndingAmount': 1932,
+    'Win': False
+}, {
+    'RoundId': 393,
+    'Color': 'Black',
+    'EndingAmount': 1936,
+    'Win': True
+}, {
+    'RoundId': 394,
+    'Color': 'Red',
+    'EndingAmount': 1935,
+    'Win': False
+}, {
+    'RoundId': 395,
+    'Color': 'Red',
+    'EndingAmount': 1933,
+    'Win': False
+}, {
+    'RoundId': 396,
+    'Color': 'Black',
+    'EndingAmount': 1941,
+    'Win': True
+}, {
+    'RoundId': 397,
+    'Color': 'Black',
+    'EndingAmount': 1943,
+    'Win': True
+}, {
+    'RoundId': 398,
+    'Color': 'Red',
+    'EndingAmount': 1942,
+    'Win': False
+}, {
+    'RoundId': 399,
+    'Color': 'Black',
+    'EndingAmount': 1946,
+    'Win': True
+}, {
+    'RoundId': 400,
+    'Color': 'Black',
+    'EndingAmount': 1948,
+    'Win': True
+}, {
+    'RoundId': 401,
+    'Color': 'Black',
+    'EndingAmount': 1950,
+    'Win': True
+}, {
+    'RoundId': 402,
+    'Color': 'Black',
+    'EndingAmount': 1952,
+    'Win': True
+}, {
+    'RoundId': 403,
+    'Color': 'Red',
+    'EndingAmount': 1951,
+    'Win': False
+}, {
+    'RoundId': 404,
+    'Color': 'Red',
+    'EndingAmount': 1949,
+    'Win': False
+}, {
+    'RoundId': 405,
+    'Color': 'Black',
+    'EndingAmount': 1957,
+    'Win': True
+}, {
+    'RoundId': 406,
+    'Color': 'Black',
+    'EndingAmount': 1959,
+    'Win': True
+}, {
+    'RoundId': 407,
+    'Color': 'Red',
+    'EndingAmount': 1958,
+    'Win': False
+}, {
+    'RoundId': 408,
+    'Color': 'Black',
+    'EndingAmount': 1962,
+    'Win': True
+}, {
+    'RoundId': 409,
+    'Color': 'Black',
+    'EndingAmount': 1964,
+    'Win': True
+}, {
+    'RoundId': 410,
+    'Color': 'Red',
+    'EndingAmount': 1963,
+    'Win': False
+}, {
+    'RoundId': 411,
+    'Color': 'Red',
+    'EndingAmount': 1961,
+    'Win': False
+}, {
+    'RoundId': 412,
+    'Color': 'Red',
+    'EndingAmount': 1957,
+    'Win': False
+}, {
+    'RoundId': 413,
+    'Color': 'Black',
+    'EndingAmount': 1973,
+    'Win': True
+}, {
+    'RoundId': 414,
+    'Color': 'Black',
+    'EndingAmount': 1975,
+    'Win': True
+}, {
+    'RoundId': 415,
+    'Color': 'Black',
+    'EndingAmount': 1977,
+    'Win': True
+}, {
+    'RoundId': 416,
+    'Color': 'Red',
+    'EndingAmount': 1976,
+    'Win': False
+}, {
+    'RoundId': 417,
+    'Color': 'Black',
+    'EndingAmount': 1980,
+    'Win': True
+}, {
+    'RoundId': 418,
+    'Color': 'Black',
+    'EndingAmount': 1982,
+    'Win': True
+}, {
+    'RoundId': 419,
+    'Color': 'Black',
+    'EndingAmount': 1984,
+    'Win': True
+}, {
+    'RoundId': 420,
+    'Color': 'Black',
+    'EndingAmount': 1986,
+    'Win': True
+}, {
+    'RoundId': 421,
+    'Color': 'Red',
+    'EndingAmount': 1985,
+    'Win': False
+}, {
+    'RoundId': 422,
+    'Color': 'Red',
+    'EndingAmount': 1983,
+    'Win': False
+}, {
+    'RoundId': 423,
+    'Color': 'Black',
+    'EndingAmount': 1991,
+    'Win': True
+}, {
+    'RoundId': 424,
+    'Color': 'Black',
+    'EndingAmount': 1993,
+    'Win': True
+}, {
+    'RoundId': 425,
+    'Color': 'Black',
+    'EndingAmount': 1995,
+    'Win': True
+}, {
+    'RoundId': 426,
+    'Color': 'Red',
+    'EndingAmount': 1994,
+    'Win': False
+}, {
+    'RoundId': 427,
+    'Color': 'Black',
+    'EndingAmount': 1998,
+    'Win': True
+}, {
+    'RoundId': 428,
+    'Color': 'Red',
+    'EndingAmount': 1997,
+    'Win': False
+}, {
+    'RoundId': 429,
+    'Color': 'Red',
+    'EndingAmount': 1995,
+    'Win': False
+}, {
+    'RoundId': 430,
+    'Color': 'Black',
+    'EndingAmount': 2003,
+    'Win': True
+}, {
+    'RoundId': 431,
+    'Color': 'Red',
+    'EndingAmount': 2002,
+    'Win': False
+}, {
+    'RoundId': 432,
+    'Color': 'Black',
+    'EndingAmount': 2006,
+    'Win': True
+}, {
+    'RoundId': 433,
+    'Color': 'Black',
+    'EndingAmount': 2008,
+    'Win': True
+}, {
+    'RoundId': 434,
+    'Color': 'Black',
+    'EndingAmount': 2010,
+    'Win': True
+}, {
+    'RoundId': 435,
+    'Color': 'Red',
+    'EndingAmount': 2009,
+    'Win': False
+}, {
+    'RoundId': 436,
+    'Color': 'Black',
+    'EndingAmount': 2013,
+    'Win': True
+}, {
+    'RoundId': 437,
+    'Color': 'Red',
+    'EndingAmount': 2012,
+    'Win': False
+}, {
+    'RoundId': 438,
+    'Color': 'Black',
+    'EndingAmount': 2016,
+    'Win': True
+}, {
+    'RoundId': 439,
+    'Color': 'Red',
+    'EndingAmount': 2015,
+    'Win': False
+}, {
+    'RoundId': 440,
+    'Color': 'Black',
+    'EndingAmount': 2019,
+    'Win': True
+}, {
+    'RoundId': 441,
+    'Color': 'Black',
+    'EndingAmount': 2021,
+    'Win': True
+}, {
+    'RoundId': 442,
+    'Color': 'Red',
+    'EndingAmount': 2020,
+    'Win': False
+}, {
+    'RoundId': 443,
+    'Color': 'Red',
+    'EndingAmount': 2018,
+    'Win': False
+}, {
+    'RoundId': 444,
+    'Color': 'Black',
+    'EndingAmount': 2026,
+    'Win': True
+}, {
+    'RoundId': 445,
+    'Color': 'Red',
+    'EndingAmount': 2025,
+    'Win': False
+}, {
+    'RoundId': 446,
+    'Color': 'Black',
+    'EndingAmount': 2029,
+    'Win': True
+}, {
+    'RoundId': 447,
+    'Color': 'Red',
+    'EndingAmount': 2028,
+    'Win': False
+}, {
+    'RoundId': 448,
+    'Color': 'Black',
+    'EndingAmount': 2032,
+    'Win': True
+}, {
+    'RoundId': 449,
+    'Color': 'Red',
+    'EndingAmount': 2031,
+    'Win': False
+}, {
+    'RoundId': 450,
+    'Color': 'Red',
+    'EndingAmount': 2029,
+    'Win': False
+}, {
+    'RoundId': 451,
+    'Color': 'Red',
+    'EndingAmount': 2025,
+    'Win': False
+}, {
+    'RoundId': 452,
+    'Color': 'Black',
+    'EndingAmount': 2041,
+    'Win': True
+}, {
+    'RoundId': 453,
+    'Color': 'Red',
+    'EndingAmount': 2040,
+    'Win': False
+}, {
+    'RoundId': 454,
+    'Color': 'Black',
+    'EndingAmount': 2044,
+    'Win': True
+}, {
+    'RoundId': 455,
+    'Color': 'Red',
+    'EndingAmount': 2043,
+    'Win': False
+}, {
+    'RoundId': 456,
+    'Color': 'Black',
+    'EndingAmount': 2047,
+    'Win': True
+}, {
+    'RoundId': 457,
+    'Color': 'Red',
+    'EndingAmount': 2046,
+    'Win': False
+}, {
+    'RoundId': 458,
+    'Color': 'Red',
+    'EndingAmount': 2044,
+    'Win': False
+}, {
+    'RoundId': 459,
+    'Color': 'Red',
+    'EndingAmount': 2040,
+    'Win': False
+}, {
+    'RoundId': 460,
+    'Color': 'Black',
+    'EndingAmount': 2056,
+    'Win': True
+}, {
+    'RoundId': 461,
+    'Color': 'Black',
+    'EndingAmount': 2058,
+    'Win': True
+}, {
+    'RoundId': 462,
+    'Color': 'Black',
+    'EndingAmount': 2060,
+    'Win': True
+}, {
+    'RoundId': 463,
+    'Color': 'Red',
+    'EndingAmount': 2059,
+    'Win': False
+}, {
+    'RoundId': 464,
+    'Color': 'Black',
+    'EndingAmount': 2063,
+    'Win': True
+}, {
+    'RoundId': 465,
+    'Color': 'Black',
+    'EndingAmount': 2065,
+    'Win': True
+}, {
+    'RoundId': 466,
+    'Color': 'Black',
+    'EndingAmount': 2067,
+    'Win': True
+}, {
+    'RoundId': 467,
+    'Color': 'Black',
+    'EndingAmount': 2069,
+    'Win': True
+}, {
+    'RoundId': 468,
+    'Color': 'Black',
+    'EndingAmount': 2071,
+    'Win': True
+}, {
+    'RoundId': 469,
+    'Color': 'Red',
+    'EndingAmount': 2070,
+    'Win': False
+}, {
+    'RoundId': 470,
+    'Color': 'Red',
+    'EndingAmount': 2068,
+    'Win': False
+}, {
+    'RoundId': 471,
+    'Color': 'Black',
+    'EndingAmount': 2076,
+    'Win': True
+}, {
+    'RoundId': 472,
+    'Color': 'Red',
+    'EndingAmount': 2075,
+    'Win': False
+}, {
+    'RoundId': 473,
+    'Color': 'Black',
+    'EndingAmount': 2079,
+    'Win': True
+}, {
+    'RoundId': 474,
+    'Color': 'Red',
+    'EndingAmount': 2078,
+    'Win': False
+}, {
+    'RoundId': 475,
+    'Color': 'Black',
+    'EndingAmount': 2082,
+    'Win': True
+}, {
+    'RoundId': 476,
+    'Color': 'Red',
+    'EndingAmount': 2081,
+    'Win': False
+}, {
+    'RoundId': 477,
+    'Color': 'Black',
+    'EndingAmount': 2085,
+    'Win': True
+}, {
+    'RoundId': 478,
+    'Color': 'Red',
+    'EndingAmount': 2084,
+    'Win': False
+}, {
+    'RoundId': 479,
+    'Color': 'Black',
+    'EndingAmount': 2088,
+    'Win': True
+}, {
+    'RoundId': 480,
+    'Color': 'Red',
+    'EndingAmount': 2087,
+    'Win': False
+}, {
+    'RoundId': 481,
+    'Color': 'Black',
+    'EndingAmount': 2091,
+    'Win': True
+}, {
+    'RoundId': 482,
+    'Color': 'Black',
+    'EndingAmount': 2093,
+    'Win': True
+}, {
+    'RoundId': 483,
+    'Color': 'Black',
+    'EndingAmount': 2095,
+    'Win': True
+}, {
+    'RoundId': 484,
+    'Color': 'Black',
+    'EndingAmount': 2097,
+    'Win': True
+}, {
+    'RoundId': 485,
+    'Color': 'Red',
+    'EndingAmount': 2096,
+    'Win': False
+}, {
+    'RoundId': 486,
+    'Color': 'Red',
+    'EndingAmount': 2094,
+    'Win': False
+}, {
+    'RoundId': 487,
+    'Color': 'Black',
+    'EndingAmount': 2102,
+    'Win': True
+}, {
+    'RoundId': 488,
+    'Color': 'Red',
+    'EndingAmount': 2101,
+    'Win': False
+}, {
+    'RoundId': 489,
+    'Color': 'Red',
+    'EndingAmount': 2099,
+    'Win': False
+}, {
+    'RoundId': 490,
+    'Color': 'Black',
+    'EndingAmount': 2107,
+    'Win': True
+}, {
+    'RoundId': 491,
+    'Color': 'Red',
+    'EndingAmount': 2106,
+    'Win': False
+}, {
+    'RoundId': 492,
+    'Color': 'Red',
+    'EndingAmount': 2104,
+    'Win': False
+}, {
+    'RoundId': 493,
+    'Color': 'Black',
+    'EndingAmount': 2112,
+    'Win': True
+}, {
+    'RoundId': 494,
+    'Color': 'Black',
+    'EndingAmount': 2114,
+    'Win': True
+}, {
+    'RoundId': 495,
+    'Color': 'Black',
+    'EndingAmount': 2116,
+    'Win': True
+}, {
+    'RoundId': 496,
+    'Color': 'Black',
+    'EndingAmount': 2118,
+    'Win': True
+}, {
+    'RoundId': 497,
+    'Color': 'Red',
+    'EndingAmount': 2117,
+    'Win': False
+}, {
+    'RoundId': 498,
+    'Color': 'Red',
+    'EndingAmount': 2115,
+    'Win': False
+}, {
+    'RoundId': 499,
+    'Color': 'Black',
+    'EndingAmount': 2123,
+    'Win': True
+}, {
+    'RoundId': 500,
+    'Color': 'Black',
+    'EndingAmount': 2125,
     'Win': True
 }]
